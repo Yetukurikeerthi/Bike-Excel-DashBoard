@@ -1,39 +1,70 @@
-# Bike Sales Excel Dashboard
+# 🚲 Bike Sales Excel Dashboard
 
-## Project Overview
-This project is an Excel dashboard that analyzes bike sales data and customer demographics. The dashboard helps understand customer behavior and purchasing patterns.
+## 📊 Dashboard Preview
+<img src="DashBoard.png" alt="Alt text" width="500">
 
-The project includes data cleaning, analysis, and visualization using Microsoft Excel.
 
-## Tools Used
+---
+
+## 📌 Project Overview
+This project is an **interactive Excel dashboard** that analyzes bike sales data and customer demographics. The dashboard provides insights into customer purchasing behavior using visualizations and filters.
+
+The project includes **data cleaning, analysis, and visualization using Microsoft Excel.**
+
+---
+
+## 🛠 Tools Used
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
 - Excel Formulas
 - Data Cleaning
 - Dashboard Design
-<img src="DashBoard.png" alt="Alt text" width="500">
-## Dashboard Features
-- Sales by Gender
-- Sales by Age Group
-- Sales by Income
-- Regional Analysis
-- Interactive Filters (Slicers)
+- Slicers (Interactive Filters)
 
-## Insights
+---
 
-Age Group:
-Middle-aged customers are more likely to purchase bikes.
+## 📈 Dashboard Features
 
-Income:
-Customers with higher income tend to buy more bikes.
+### 1️⃣ Average Income per Purchase
+- Compares income levels of customers who purchased bikes vs those who did not
+- Broken down by gender
 
-Gender:
-Bike purchases are slightly higher among male customers.
+### 2️⃣ Customer Commute Analysis
+- Shows bike purchases based on commute distance
+- Helps identify commuting patterns of buyers
 
-Region:
-Some regions show higher bike sales.
+### 3️⃣ Customer Age Brackets
+- Displays purchase behavior by age group
+- Helps identify target customer segments
 
-## Author
-Keerthi Yetukuri
+### 4️⃣ Interactive Filters
+Users can filter the dashboard using:
+
+- Marital Status
+- Region
+- Education Level
+
+---
+
+## 🔎 Key Insights
+
+- **Middle-aged customers** are more likely to purchase bikes.
+- Customers with **higher income** tend to buy more bikes.
+- **Male customers** show slightly higher bike purchases.
+- Customers with **shorter commute distances** purchase bikes more frequently.
+
+---
+
+## 📂 Files Included
+
+- `Bike Excel DashBoard.xlsx` → Excel dashboard file
+- `README.md` → Project documentation
+- `image/` → Dashboard screenshots
+
+---
+
+## 👤 Author
+
+**Keerthi Yetukuri**  
 Data Analyst
