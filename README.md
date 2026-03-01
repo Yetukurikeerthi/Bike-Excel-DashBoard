@@ -12,7 +12,7 @@ The project includes data cleaning, analysis, and visualization using Microsoft 
 - Excel Formulas
 - Data Cleaning
 - Dashboard Design
-
+<img src="DashBoard.png" alt="Alt text" width="500">
 ## Dashboard Features
 - Sales by Gender
 - Sales by Age Group
