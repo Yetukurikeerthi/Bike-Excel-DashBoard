@@ -1,5 +1,5 @@
 # Bike Sales Excel Dashboard
-![Dashboard Screenshot](Screenshot 2026-03-01 133604.png)
+
 ## Project Overview
 This project is an Excel dashboard that analyzes bike sales data and customer demographics. The dashboard helps understand customer behavior and purchasing patterns.
 
